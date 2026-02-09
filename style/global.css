@@ -43,5 +43,9 @@
 
 body{
     overflow: hidden;
-    /* background-color: var(--shape-background); */
+    background-color: black
+}
+
+img{
+    max-width: 100%;
 }
