@@ -8,9 +8,9 @@
     --font-family-1: 'Leckerli One', sans-serif;
     --logo: 400 2.5rem var(--font-family-1);
 
-    --font-family-2: 'Baloo 2', sans-serif;
-    --heading-md: 400 1,75rem var(--font-family-2);
-    --heading-sm: 400 1,125rem var(--font-family-2);
+    --font-family-2: 'Baloo2', sans-serif;
+    --heading-md: 400 1.75rem var(--font-family-2);
+    --heading-sm: 400 1.125rem var(--font-family-2);
 
     --font-family-3: 'Open sans', sans-serif;
     --body-md: 400 1rem var(--font-family-3);
